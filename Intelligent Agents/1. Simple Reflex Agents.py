@@ -6,4 +6,5 @@ def simple_reflex_agent(percept):
 
 
 
+
 print(simple_reflex_agent('dirty'))
