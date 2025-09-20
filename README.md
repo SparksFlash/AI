@@ -4,6 +4,8 @@ This repository contains code and resources related to intelligent agents and pr
 
 ## Directory Structure
 
+- **AI Sessional MID**
+
 - **Intelligent Agents**
   - `1_SimpleReflexAgents.py`: Implementation of simple reflex agents.
   - `2_Model-BasedReflexAgents.py`: Implementation of model-based reflex agents.
